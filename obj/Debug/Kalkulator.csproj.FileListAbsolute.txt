@@ -1,0 +1,22 @@
+D:\Users\agrabi1\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+D:\Users\agrabi1\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+D:\Users\agrabi1\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+D:\Users\agrabi1\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+D:\Users\agrabi1\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+D:\Users\agrabi1\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+D:\Users\agrabi1\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+D:\Users\agrabi1\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+D:\Users\agrabi1\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+D:\Users\agrabi1\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+D:\Users\agrabi1\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Vjezbe\Vjezba 5\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Vjezbe\Vjezba 5\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Vjezbe\Vjezba 5\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Vjezbe\Vjezba 5\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Vjezbe\Vjezba 5\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Vjezbe\Vjezba 5\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Vjezbe\Vjezba 5\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Vjezbe\Vjezba 5\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Vjezbe\Vjezba 5\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Vjezbe\Vjezba 5\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\2. semestar\Primjena objektnog programiranja\Vjezbe\Vjezba 5\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
